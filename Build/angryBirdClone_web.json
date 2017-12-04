@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "angryBirdClone_web.data.unityweb",
+"asmCodeUrl": "angryBirdClone_web.asm.code.unityweb",
+"asmMemoryUrl": "angryBirdClone_web.asm.memory.unityweb",
+"asmFrameworkUrl": "angryBirdClone_web.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
